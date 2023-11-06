@@ -11,4 +11,4 @@ Provides helper classes for a few widely used algorithms
 
 # Notes
 This library can only work, if the desired algorithm is implemented by at least one provider in the jvm!
-Note that the key size of '1' in the SHA2 implementation does NOT refer to an output bit length of 1, but rather
+All functionality was tested in OpenJDK 17
