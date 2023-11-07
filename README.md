@@ -1,4 +1,4 @@
-# CryptLib
+# CryptSP
 Encryption and hashing helper library for Java, that  
 provides wrapper and util classes for a few widely used algorithms
 
