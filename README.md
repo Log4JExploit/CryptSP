@@ -11,4 +11,4 @@ provides wrapper and util classes for a few widely used algorithms
 
 # Notes
 This library can only work, if the desired algorithm is implemented by at least one provider in the jvm!  
-All functionality was tested in OpenJDK 17, if you experience any issues, feel free to open an issue.
+All functionality was tested in OpenJDK 17, if you experience any problems, feel free to open an issue.
