@@ -1,6 +1,6 @@
 # CryptLib
-Encryption and hashing library for Java
-Provides helper classes for a few widely used algorithms
+Encryption and hashing helper library for Java, that  
+provides wrapper and util classes for a few widely used algorithms
 
 # Supported Algorithms
 - AES (AES/GCM/NoPadding), key sizes: [128, 192, 256]
@@ -10,5 +10,5 @@ Provides helper classes for a few widely used algorithms
 - SHA3, key sizes: [224, 256, 384, 512]
 
 # Notes
-This library can only work, if the desired algorithm is implemented by at least one provider in the jvm!
-All functionality was tested in OpenJDK 17
+This library can only work, if the desired algorithm is implemented by at least one provider in the jvm!  
+All functionality was tested in OpenJDK 17, if you experience any issues, feel free to open an issue.
